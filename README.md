@@ -44,7 +44,25 @@ With over 11,000 hours of experience in Search Engine Marketing (SEM) and a cons
 
 ## 🛠️ Projects
 
+I have several small projects done during all courses. Natours is the first project on which I built a lot after following the courses and where I have added many features. This is a backend project so not frontend framework is used. I plan on creating my own projects from scratch starting in march 2025. I want to stop watching courses and start coding and get a job before learning more skills.
 
+### [Natours 🌍✈️](https://github.com/ArnaudHalvick/Natours)
+
+A full-featured **tour booking platform** built with **Node.js, Express, and MongoDB**, initially based on Jonas Schmedtmann's course but **enhanced with real-world business logic**.
+
+🚀 **Key Features**  
+✔️ Secure authentication with email verification & 2FA  
+✔️ Advanced booking system with payments & refunds  
+✔️ Comprehensive admin dashboard for user & tour management  
+✔️ Review moderation, invoice generation & capacity tracking  
+
+🛠 **Tech Stack**  
+**Backend:** Node.js, Express.js, MongoDB, JWT  
+**Payments:** Stripe integration  
+**Email:** SendGrid/Nodemailer  
+**Frontend:** Pug templates, CSS, JavaScript  
+
+🔗 **Check it out:** [Natours on GitHub](https://github.com/ArnaudHalvick/Natours)
 
 
 ## 🤝 Let's Connect
