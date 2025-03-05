@@ -9,9 +9,17 @@
 With over 11,000 hours of experience in Search Engine Marketing (SEM) and a consistent 5-star rating on Upwork, I've recently transitioned into web development, focusing on the MERN stack (MongoDB, Express.js, React, and Node.js). My unique blend of marketing expertise and technical skills enables me to create applications that are both user-centric and optimized for performance.
 
 - 🌍 **Location:** Buenos Aires, Argentina
-- 💼 **Current Role:** Aspiring Full-Stack MERN Developer
-- 🌱 **Learning Focus:** Enhancing proficiency in the MERN stack and learn Angular and NestJS
+- 💼 **Current Role:** Aspiring Full-Stack MERN or MEAN Developer
+- 🌱 **Learning Focus:** Enhancing proficiency in the MERN / MEAN stack and learn NestJS
 - 💬 **Languages:** Native French, Fluent in English and Spanish
+
+**Certifications**
+
+- *The Complete JavaScript Course 2025: From Zero to Expert!* — Udemy, Completed August 2024
+- *Node.js, Express, MongoDB & More: The Complete Bootcamp* — Udemy, Completed October 2024
+- *Understanding TypeScript* — Udemy, Completed October 2024
+- *Angular - The Complete Guide (2025 Edition)* — Udemy, Completed December 2024
+- *React - The Complete Guide 2025 (incl. Next.js, Redux)* — Udemy, Completed February 2025
 
 ## 🔧 Technologies & Tools
 
