@@ -44,7 +44,9 @@ With over 11,000 hours of experience in Search Engine Marketing (SEM) and a cons
 
 ## 🛠️ Projects
 
-I have several small projects done during all courses. Natours is the first project on which I built a lot after following the courses and where I have added many features. This is a backend project so not frontend framework is used. I plan on creating my own projects from scratch starting in march 2025. I want to stop watching courses and start coding and get a job before learning more skills.
+I have several small projects done during all courses, I haven't uploaded most of them because I wasn't sure that it was worth it.
+
+Natours is the first project on which I built a lot after following the courses and where I have added many features. This is a backend project so not frontend framework is used. I plan on creating my own projects from scratch starting in march 2025. I want to stop watching courses and start coding and get a job before learning more skills.
 
 ### [Natours 🌍✈️](https://github.com/ArnaudHalvick/Natours)
 
