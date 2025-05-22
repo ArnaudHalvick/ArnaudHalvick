@@ -1,24 +1,24 @@
 # 👋 Hello, I'm Arnaud Halvick
 
-- **Email:** arnaud.halvick@gmail.com
-- **Phone:** +54 911 2346 1925
+- **Email:** arnaud.halvick@gmail.com  
+- **Phone:** +54 911 2346 1925  
 - **Upwork:** [Profile Link](https://www.upwork.com/freelancers/~017740c356da4ab81f)
 
 ## About Me
 
 With over 11,000 hours of experience in Search Engine Marketing (SEM) and a consistent 5-star rating on Upwork, I've recently transitioned into web development, focusing on the MERN stack (MongoDB, Express.js, React, and Node.js). My unique blend of marketing expertise and technical skills enables me to create applications that are both user-centric and optimized for performance.
 
-- 🌍 **Location:** Buenos Aires, Argentina
-- 💼 **Current Role:** Aspiring Full-Stack MERN or MEAN Developer
-- 🌱 **Learning Focus:** Enhancing proficiency in the MERN / MEAN stack and learn NestJS
+- 🌍 **Location:** Buenos Aires, Argentina  
+- 💼 **Current Role:** Aspiring Full-Stack MERN or MEAN Developer  
+- 🌱 **Learning Focus:** Enhancing proficiency in the MERN / MEAN stack and learning NestJS  
 - 💬 **Languages:** Native French, Fluent in English and Spanish
 
-**Certifications**
+## 🎓 Certifications
 
-- *The Complete JavaScript Course 2025: From Zero to Expert!* — Udemy, Completed August 2024
-- *Node.js, Express, MongoDB & More: The Complete Bootcamp* — Udemy, Completed October 2024
-- *Understanding TypeScript* — Udemy, Completed October 2024
-- *Angular - The Complete Guide (2025 Edition)* — Udemy, Completed December 2024
+- *The Complete JavaScript Course 2025: From Zero to Expert!* — Udemy, Completed August 2024  
+- *Node.js, Express, MongoDB & More: The Complete Bootcamp* — Udemy, Completed October 2024  
+- *Understanding TypeScript* — Udemy, Completed October 2024  
+- *Angular - The Complete Guide (2025 Edition)* — Udemy, Completed December 2024  
 - *React - The Complete Guide 2025 (incl. Next.js, Redux)* — Udemy, Completed February 2025
 
 ## 🔧 Technologies & Tools
@@ -38,15 +38,49 @@ With over 11,000 hours of experience in Search Engine Marketing (SEM) and a cons
 
 ## 📈 SEM Expertise
 
-- **Google Ads & Shopping:** Managing and optimizing campaigns for e-commerce platforms to ensure high ROI.
-- **SEO for Web Applications:** Implementing on-page SEO, site performance optimization, and schema markup to enhance search engine rankings.
+- **Google Ads & Shopping:** Managing and optimizing campaigns for e-commerce platforms to ensure high ROI.  
+- **SEO for Web Applications:** Implementing on-page SEO, site performance optimization, and schema markup to enhance search engine rankings.  
 - **Analytics Integration:** Embedding tools like Google Analytics for comprehensive performance tracking.
 
 ## 🛠️ Projects
 
 I have several small projects done during all courses, I haven't uploaded most of them because I wasn't sure that it was worth it.
 
-Natours is the first project on which I built a lot after following the courses and where I have added many features. This is a backend project so not frontend framework is used. I plan on creating my own projects from scratch starting in march 2025. I want to stop watching courses and start coding and get a job before learning more skills.
+Natours is the first project on which I built a lot after following the courses and where I have added many features. This is a backend project so no frontend framework is used. I plan on creating my own projects from scratch starting in March 2025. I want to stop watching courses and start coding and get a job before learning more skills.
+
+### [🛍️ MERN E-Commerce Platform](https://github.com/ArnaudHalvick/e-commerce-mern-stack-improved)
+
+A comprehensive **full-stack e-commerce solution** featuring a modern **React customer frontend**, a separate **admin dashboard**, and a robust **Node.js backend**. This project demonstrates advanced patterns for building scalable, secure, and user-friendly web applications with containerized deployment architecture.
+
+**🔗 Live Demo:** [mernappshopper.xyz](https://mernappshopper.xyz)  
+**🔐 Admin Dashboard:** [admin.mernappshopper.xyz](https://admin.mernappshopper.xyz)  
+🎥 **Video Presentation:** [Watch on YouTube](https://www.youtube.com/watch?v=H4rndG1Qr6w)
+
+🚀 **Key Features**
+
+- Dual Frontend Architecture (Customer + Admin)  
+- Complete E-Commerce Functionality: Product catalog, cart, checkout, order management  
+- JWT Authentication with email verification and refresh tokens  
+- Stripe Payment Integration with webhook support  
+- Advanced SEO using React 19's native Document Metadata API  
+- Production-Ready Docker Deployment with hot-reload dev setup  
+- Reverse Proxy with Nginx and HTTPS via Let's Encrypt  
+
+🧱 **Tech Stack**
+
+- **Frontend (Customer):** React 19, Redux, Stripe, Nginx  
+- **Admin Dashboard:** React + Context, Vite, Nginx  
+- **Backend:** Node.js, Express, MongoDB, JWT, Mongoose, Stripe, Winston  
+- **DevOps:** Docker, Docker Compose, Nginx, Let's Encrypt, Digital Ocean
+
+📦 **Architecture Highlights**
+
+- Microservices-inspired setup with separate services for frontend, admin, and backend  
+- Central Nginx proxy for routing, caching, and SSL  
+- Secrets managed via Docker volumes  
+- Fully containerized with production & development environments
+
+---
 
 ### [Natours 🌍✈️](https://github.com/ArnaudHalvick/Natours)
 
@@ -66,11 +100,12 @@ A full-featured **tour booking platform** built with **Node.js, Express, and Mon
 
 🔗 **Check it out:** [Natours on GitHub](https://github.com/ArnaudHalvick/Natours)
 
+---
 
 ## 🤝 Let's Connect
 
-- **Email:** arnaud.halvick@gmail.com
-- **Phone:** +54 911 2346 1925
+- **Email:** arnaud.halvick@gmail.com  
+- **Phone:** +54 911 2346 1925  
 - **Upwork:** [Profile Link](https://www.upwork.com/freelancers/~017740c356da4ab81f)
 
 Feel free to reach out for collaboration, freelance projects, or just to connect!
