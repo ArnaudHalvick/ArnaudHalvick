@@ -14,10 +14,10 @@ Full-Stack JavaScript Developer with a strong background in Search Engine Optimi
 
 This year, I built a complete, production-ready MERN e-commerce platform featuring a React customer storefront, React admin dashboard, secure Node.js/Express API backend, Dockerized deployment with Nginx reverse proxy and SSL, and Stripe integration for secure payments.
 
-- 🌍 **Location:** Buenos Aires, Argentina
-- 💼 **Current Role:** Full-Stack JavaScript Developer | SEM Specialist
-- 🌱 **Latest Learning:** SQL, PostgreSQL, Supabase, Docker, Kubernetes, Next.js 15
-- 💬 **Languages:** Native French, Fluent in English and Spanish
+- 🌍 Location: Buenos Aires, Argentina
+- 💼 Current Role: Full-Stack JavaScript Developer | SEM Specialist
+- 🌱 Latest Learning: SQL, PostgreSQL, Supabase, Docker, Kubernetes, Next.js 15
+- 💬 Languages: Native French, Fluent in English and Spanish
 
 ### 🔍 Keywords for SEO & Recruiters
 freelance react developer, MERN Stack, JavaScript full‑stack developer open to work,
