@@ -12,7 +12,9 @@
 
 Full-Stack JavaScript Developer with a strong background in Search Engine Optimization (SEO) and Search Engine Advertising (SEA). Over 11,000 hours logged on Upwork with a consistent 5-star rating. I combine development and digital marketing expertise to deliver complete, scalable web applications that perform both technically and commercially.
 
-This year, I built a complete, production-ready MERN e-commerce platform featuring a React customer storefront, React admin dashboard, secure Node.js/Express API backend, Dockerized deployment with Nginx reverse proxy and SSL, and Stripe integration for secure payments.
+This year, I built several production-ready applications, including:
+- A complete MERN e-commerce platform with a React storefront and admin dashboard, secure Node.js/Express backend, Stripe integration, and Dockerized deployment with Nginx and SSL.
+- An interactive **SQL Playground** using Next.js 15, TypeScript, and Supabase—allowing users to practice real SQL queries, solve AI-generated challenges, and explore educational datasets in real time.
 
 - 🌍 Location: Buenos Aires, Argentina
 - 💼 Current Role: Full-Stack JavaScript Developer | SEM Specialist
