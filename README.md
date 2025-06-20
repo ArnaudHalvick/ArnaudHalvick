@@ -20,7 +20,9 @@ This year, I built a complete, production-ready MERN e-commerce platform featuri
 - 💬 **Languages:** Native French, Fluent in English and Spanish
 
 ### 🔍 Keywords for SEO & Recruiters
-**freelance react developer**, **MERN Stack**, **JavaScript full-stack developer open to work**, **Google Ads + Full Stack**
+freelance react developer, MERN Stack, JavaScript full‑stack developer open to work,
+Google Ads + Full Stack, RESTful APIs, GraphQL, PWAs, React.js, Next.js, TypeScript,
+Docker, Kubernetes, CI/CD, AWS, GCP, SEO, GA4, GTM, Conversion Optimization, Agile
 
 ## 🎓 Certifications
 
