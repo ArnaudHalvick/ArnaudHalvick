@@ -7,19 +7,17 @@
 - **Email:** halvick.arnaud@gmail.com
 - **Phone:** +54 911 2346 1925
 - **Upwork:** [Profile Link](https://www.upwork.com/freelancers/~017740c356da4ab81f)
+- 🌍 **Location:** Buenos Aires, Argentina
+- 💼 **Current Role:** Full-Stack JavaScript Developer | SEM Specialist
+- 💬 **Languages:** Native French, Fluent in English and Spanish
 
 ## About Me
 
 Full-Stack JavaScript Developer with a strong background in Search Engine Optimization (SEO) and Search Engine Advertising (SEA). Over 11,000 hours logged on Upwork with a consistent 5-star rating. I combine development and digital marketing expertise to deliver complete, scalable web applications that perform both technically and commercially.
 
 This year, I built several production-ready applications, including:
-- A complete MERN e-commerce platform with a React storefront and admin dashboard, secure Node.js/Express backend, Stripe integration, and Dockerized deployment with Nginx and SSL.
-- An interactive **SQL Playground** using Next.js 15, TypeScript, and Supabase—allowing users to practice real SQL queries, solve AI-generated challenges, and explore educational datasets in real time.
-
-- 🌍 Location: Buenos Aires, Argentina
-- 💼 Current Role: Full-Stack JavaScript Developer | SEM Specialist
-- 🌱 Latest Learning: SQL, PostgreSQL, Supabase, Docker, Kubernetes, Next.js 15
-- 💬 Languages: Native French, Fluent in English and Spanish
+- A **complete MERN e-commerce platform** with a React storefront and admin dashboard, secure Node.js/Express backend, Stripe integration, and Dockerized deployment with Nginx and SSL.
+- An **interactive SQL Playground** using Next.js 15, TypeScript, and Supabase—allowing users to practice real SQL queries, solve AI-generated challenges, and explore educational datasets in real time.
 
 ### 🔍 Keywords for SEO & Recruiters
 freelance react developer, MERN Stack, JavaScript full‑stack developer open to work,
