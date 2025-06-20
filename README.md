@@ -24,14 +24,18 @@ freelance react developer, MERN Stack, JavaScript full‑stack developer open to
 Google Ads + Full Stack, RESTful APIs, GraphQL, PWAs, React.js, Next.js, TypeScript,
 Docker, Kubernetes, CI/CD, AWS, GCP, SEO, GA4, GTM, Conversion Optimization, Agile
 
-## 🎓 Certifications
+## 🎓 Certifications (Udemy Bootcamps, 2024–2025)
 
-- _The Complete JavaScript Course 2025: From Zero to Expert!_ — Udemy, August 2024
-- _Node.js, Express, MongoDB & More: The Complete Bootcamp_ — Udemy, October 2024
-- _Understanding TypeScript_ — Udemy, October 2024
-- _Angular - The Complete Guide (2025 Edition)_ — Udemy, December 2024
-- _React - The Complete Guide 2025 (incl. Next.js, Redux)_ — Udemy, February 2025
-- _Docker & Kubernetes: The Practical Guide [2025 Edition]_ — Udemy, June 2025
+- **JavaScript & TypeScript**:  
+  _The Complete JavaScript Course 2025_, _Understanding TypeScript_
+
+- **Frontend Frameworks**:  
+  _React – The Complete Guide 2025 (incl. Next.js, Redux)_,  
+  _Angular – The Complete Guide (2025 Edition)_
+
+- **Backend & DevOps**:  
+  _Node.js, Express, MongoDB & More: The Complete Bootcamp_,  
+  _Docker & Kubernetes: The Practical Guide [2025 Edition]_
 
 ## 🔧 Technologies & Tools
 
