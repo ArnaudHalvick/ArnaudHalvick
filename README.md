@@ -88,7 +88,7 @@ _Used to implement SEO solutions in production_
 
 **Production-ready solutions for crawl budget optimization, parameter handling, and content strategy.** Every service I offer demonstrated through working code and actionable frameworks.
 
-🔗 **Live Demo:** [Interactive SEO Platform](https://seo-workshop-hd7ml7sbc-arnaud-halvicks-projects.vercel.app/)
+🔗 **Live Demo:** [Interactive SEO Platform](https://seo-workshop.vercel.app/)
 
 **What This Demonstrates:**
 
