@@ -169,7 +169,6 @@ I'm available for both **technical SEO implementation** and **strategic SEO plan
 - **Portfolio:** [arnaudhalvick.github.io](https://arnaudhalvick.github.io/)
 - **Upwork:** [Hire Me (12k+ hours, 100% Job Success, Top Rated)](https://www.upwork.com/freelancers/~017740c356da4ab81f)
 - **Email:** halvick.arnaud@gmail.com
-- **Phone:** +54 911 2346 1925
 
 **What to include in your message:**
 
